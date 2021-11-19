@@ -13,11 +13,11 @@ en: &DEFAULT_EN
   header:
     title: Welcome to my CyberSec Blog!
     text: Page still under Construction 
-    button: Explore Labs
+    button: What I Do
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "What I Do"
     text: "Lorem ipsum"
     section: services
     list:
