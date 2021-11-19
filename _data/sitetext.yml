@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "What I Do"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "IT AUDIT"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: "Cyber Security"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-shield-alt
+      - title: "DevSecOps"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-cloud-upload-alt
 
   portfolio:
     title: "Portfolio"
