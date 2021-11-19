@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my Writeup page!
-    text: Please feel free to explore 
+    text: Page still under development 
     button: Tell Me More
     buttonlink: "#services"
 
