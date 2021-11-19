@@ -14,10 +14,10 @@ en: &DEFAULT_EN
     title: Welcome to my CyberSec Blog!
     text: Page still under Construction 
     button: Explore Labs
-    buttonlink: "#labs"
+    buttonlink: "#lab"
 
   labs:
-    title: "labs"
+    title: "lab"
     text: "Lorem ipsum"
     section: labs
     list:
