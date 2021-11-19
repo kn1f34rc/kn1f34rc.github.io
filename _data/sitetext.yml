@@ -13,11 +13,11 @@ en: &DEFAULT_EN
   header:
     title: Welcome to my Writeup page!
     text: Page still under development 
-    button: Tell Me More
-    buttonlink: "#services"
+    button: Explore Labs
+    buttonlink: "#labs"
 
-  services:
-    title: "Services"
+  labs:
+    title: "labs"
     text: "Lorem ipsum"
     section: services
     list:
