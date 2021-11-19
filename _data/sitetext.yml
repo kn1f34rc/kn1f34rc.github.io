@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: Welcome to my CyberSec Blog!
     text: Page still under Construction 
     button: Explore Labs
-    buttonlink: "#lab"
+    buttonlink: "#services"
 
-  labs:
-    title: "lab"
+  services:
+    title: "Services"
     text: "Lorem ipsum"
-    section: lab
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
