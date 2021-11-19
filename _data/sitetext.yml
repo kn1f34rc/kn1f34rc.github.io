@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: ""
-    text: ""
-    section: timeline
+#  timeline:
+#    title: ""
+#    text: ""
+#    section: timeline
     # left is the default
     #start_align: "left"
 #    events:
@@ -68,11 +68,11 @@ en: &DEFAULT_EN
 #        align: right
 #    end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "WhoAmI"
-    text: ""
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+#  about:
+#    title: "WhoAmI"
+#    text: ""
+#    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+#    section: about
 
 #  clients:
 #    section: clients
