@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my Writeup page!
-    text: Page still under development 
+    title: Welcome to my CyberSec Blog!
+    text: Page still under Construction 
     button: Explore Labs
     buttonlink: "#labs"
 
