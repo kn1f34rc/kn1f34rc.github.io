@@ -41,8 +41,8 @@ en: &DEFAULT_EN
 #    title: ""
 #    text: ""
 #    section: timeline
-    # left is the default
-    #start_align: "left"
+#    # left is the default
+#    #start_align: "left"
 #    events:
 #      - title: ""
 #        year: ""
