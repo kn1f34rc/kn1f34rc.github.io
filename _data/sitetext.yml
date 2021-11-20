@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Writeup"
 
-  timeline:
+#  timeline:
     title: ""
     text: ""
-    section: 
+#    section: timeline
     # left is the default
     #start_align: "left"
     events:
@@ -48,20 +48,20 @@ en: &DEFAULT_EN
         year: ""
         desc: ""
 #        image: assets/img/timeline/1.jpg
-        alt:
-      - title: ""
-        year: ""
-        desc: ""
+#        alt:
+#      - title: ""
+#        year: ""
+#        desc: ""
 #        image: assets/img/timeline/2.jpg
-        alt:
-      - title: ""
-        year: ""
-        desc: ""
+#        alt:
+#      - title: ""
+#        year: ""
+#        desc: ""
 #        image: assets/img/timeline/3.jpg
 #        alt: image alt text
-      - title: ""
-        year: ""
-        desc: ""
+#      - title: ""
+#        year: ""
+#        desc: ""
 #        image: assets/img/timeline/4.jpg
 #        alt:
 #        # you can enforce the alignment
