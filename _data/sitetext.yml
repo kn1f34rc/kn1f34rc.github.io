@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 #            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contact"
     text: "You can reach me on Discord(@Nifemi-O#2750) or e-mail(onayomide@gmail.com) "
     section: contact
     name: "Name*"
