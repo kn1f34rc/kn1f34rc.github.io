@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to my CyberSec Blog!
     text: Page under Construction 
-    button: What I Do
-    buttonlink: "#services"
+#    button: What I Do
+#    buttonlink: "#services"
 
   services:
     title: "What I Do"
@@ -37,7 +37,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Writeup"
 
-  timeline:
+#  timeline:
 #    title: ""
 #    text: ""
 #    section: timeline
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
 #  team:
 #    title: ""
 #    text: ""
-    subtext: 
+#    subtext: 
 #    section: team
 #    people:
 #      - name: "Kay Garland"
