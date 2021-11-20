@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   about:
     title: "WhoAmI"
     text: ""
-    body: "My name is Oluwanifemi (kn1f34rc) and I currently work as an IT Auditor. I spend most of my free time on Virtual Penetration Testing Labs like Tryhackme and HacktheBox where I get to learn and practice some cool hacking tricks. #noobforever"
+    body: "My name is Oluwanifemi (kn1f34rc) and I currently work as an IT Auditor. I spend most of my free time on Virtual Penetration Testing Labs like Tryhackme and HacktheBox where I get to learn and practice some cool hacking tricks. **#noobforever** "
     section: about
 
 #  clients:
