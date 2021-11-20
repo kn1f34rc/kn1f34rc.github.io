@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   timeline:
     title: ""
     text: ""
-    section: timeline
+    section: 
     # left is the default
     #start_align: "left"
     events:
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact"
-    text: "**You** **can** **reach** **me** **on** **Discord** **(@Nifemi-O#2750)**"
+    text: "You can reach me on Discord (@Nifemi-O#2750)"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
