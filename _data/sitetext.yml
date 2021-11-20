@@ -38,15 +38,15 @@ en: &DEFAULT_EN
     closebutton: "Close Writeup"
 
 #  timeline:
-    title: ""
-    text: ""
+#    title: ""
+#    text: ""
 #    section: timeline
     # left is the default
     #start_align: "left"
-    events:
-      - title: ""
-        year: ""
-        desc: ""
+#    events:
+#      - title: ""
+#        year: ""
+#        desc: ""
 #        image: assets/img/timeline/1.jpg
 #        alt:
 #      - title: ""
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
 #        alt:
 #        # you can enforce the alignment
 #        align: right
-    end: ""
+#    end: ""
 
   about:
     title: "WhoAmI"
