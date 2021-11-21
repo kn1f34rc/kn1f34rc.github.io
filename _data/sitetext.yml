@@ -11,7 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my CyberSec Blog!
+    title: Welcome to my CyberSec Blog! 
+    text: ***Hacking is the new gaming***
     text:  
 #    button: What I Do
 #    buttonlink: "#services"
