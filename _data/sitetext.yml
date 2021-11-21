@@ -11,9 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: ~$ Hacking is the new gaming my friend, 
-    W3lc0m3!
-    text:  
+    title: ~$ H4ck1n9 15 7h3 n3w 94m1n9 fr13nd
+    text: W3lc0m3!!
 #    button: What I Do
 #    buttonlink: "#services"
 
