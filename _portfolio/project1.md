@@ -1,18 +1,24 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Intelligence
+subtitle: IP:10.10.10.248
+image: assets/img/portfolio/Intelligence/01-full.jpg
+alt: hackthebox intelligence image
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Intelligence
+  subtitle: OS:Windows LAB:Hachthebox
+  thumbnail: assets/img/portfolio/Intelligence/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+# Information Gathering
+
+***Full Nmap scan on all ports***
+```
+sudo rustscan -a 10.10.10.248 --range 1-65535 -- -Pn -A -sC -sV -T4 -oN ports_scan.txt
+```
+image: assets/img/portfolio/Intelligence/nmap.png 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: September 2021
+- Platform: Hackthebox
+- Difficulty: Medium
 
