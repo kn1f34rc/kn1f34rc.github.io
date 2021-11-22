@@ -6,7 +6,7 @@ alt: hackthebox intelligence image
 
 caption:
   title: Intelligence
-  subtitle: OS:Windows LAB:Hachthebox
+  subtitle: OS:Windows LAB:Hackthebox
   thumbnail: assets/img/portfolio/Intelligence/01-thumbnail.jpg
 ---
 # Information Gathering
@@ -16,7 +16,7 @@ caption:
 ```
 sudo rustscan -a 10.10.10.248 --range 1-65535 -- -Pn -A -sC -sV -T4 -oN ports_scan.txt
 ```
-thumbnail: /../main/assets/img/portfolio/Intelligence/nmap.png 
+![This is an image](/../assets/img/portfolio/Intelligence/nmap.png)
 
 {:.list-inline}
 - Date: September 2021
