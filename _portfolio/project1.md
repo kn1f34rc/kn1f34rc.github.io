@@ -11,11 +11,12 @@ caption:
 ---
 # Information Gathering
 
+
 ***Full Nmap scan on all ports***
 ```
 sudo rustscan -a 10.10.10.248 --range 1-65535 -- -Pn -A -sC -sV -T4 -oN ports_scan.txt
 ```
-image: assets/img/portfolio/Intelligence/nmap.png 
+thumbnail: /../main/assets/img/portfolio/Intelligence/nmap.png 
 
 {:.list-inline}
 - Date: September 2021
