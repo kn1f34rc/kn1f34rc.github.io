@@ -16,8 +16,7 @@ caption:
 ```
 sudo rustscan -a 10.10.10.248 --range 1-65535 -- -Pn -A -sC -sV -T4 -oN ports_scan.txt
 ```
-![This is an image](/assets/img/portfolio/Intelligence/nmap.png)
-<img src="/assets/img/portfolio/Intelligence/nmap.png" width="300">
+<img src="/assets/img/portfolio/Intelligence/nmap.png" width="500">
 
 {:.list-inline}
 - Date: September 2021
