@@ -22,9 +22,9 @@ email      :  #this is also the email contact forms will go to
 description: ""
 author     : Oluwanifemi-O
 
-logo:     #optional, defaults to site title
-   path: assets\img\mylogo.jpg
-   height: 120 
+#logo:     #optional, defaults to site title
+   #path: assets\img\mylogo.jpg
+   height: 60 
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
