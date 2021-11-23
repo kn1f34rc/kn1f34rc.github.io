@@ -9,14 +9,14 @@ caption:
   subtitle: OS:Windows LAB:Hackthebox
   thumbnail: assets/img/portfolio/Intelligence/01-thumbnail.jpg
 ---
-# Information Gathering
+## Information Gathering
 
 
-***Full Nmap scan on all ports***
+<div align="left">***Full Nmap scan on all ports***</div>
 ```
 sudo rustscan -a 10.10.10.248 --range 1-65535 -- -Pn -A -sC -sV -T4 -oN ports_scan.txt
 ```
-![This is an image](/assets/img/portfolio/Intelligence/nmap.png#center)
+![This is an image](/assets/img/portfolio/Intelligence/nmap.png#center){ width=50% }
 
 {:.list-inline}
 - Date: September 2021
