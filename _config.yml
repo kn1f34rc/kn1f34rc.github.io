@@ -24,7 +24,7 @@ author     : Oluwanifemi-O
 
 logo:     #optional, defaults to site title
    path: assets\img\mylogo.jpg
-   height: 90 
+   height: 120 
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
