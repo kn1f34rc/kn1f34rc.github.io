@@ -50,13 +50,13 @@ en: &DEFAULT_EN
     list:
       - title: "tryhackme"
         url: https://tryhackme.com/p/knifearc
-        logo: assets/img/clients/THMlogo.png
+        logo: assets/img/clients/tryhackme.png
       - title: "hackthebox"
         url: https://app.hackthebox.eu/profile/303633
-        logo: assets/img/clients/htb.jpeg
+        logo: assets/img/clients/htb.png
       - title: "vulnhub"
         url: https://vulnhub.com
-        logo: assets/img/clients/vulnhub.png
+        logo: assets/img/clients/vhl.png
 #      - title: "Creative Market"
 #        url: https://github.com/raviriley/agency-jekyll-theme
 #        logo: assets/img/clients/creative-market.jpg
