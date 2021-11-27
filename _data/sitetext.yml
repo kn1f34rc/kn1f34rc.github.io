@@ -58,8 +58,8 @@ en: &DEFAULT_EN
         url: https://vulnhub.com
         logo: assets/img/clients/vhl.png
       - title: "Websecurity Academy"
-#        url: https://portswigger.net/web-security
-#        logo: assets/img/clients/bsacad.png
+        url: https://portswigger.net/web-security
+        logo: assets/img/clients/bsacad.png
 
 #  team:
 #    title: ""
