@@ -43,20 +43,20 @@ en: &DEFAULT_EN
     body: "My name is Oluwanifemi (kn1f34rc) and I currently work as an IT Auditor. I spend most of my free time on Virtual Penetration Testing Labs like Tryhackme and HacktheBox where I get to learn and practice some cool hacking tricks. **#noobforever** "
     section: about
 
-#  clients:
-#    section: clients
-#    max-height: 100px
-#    horizontal-scrolling: "" #"yes/no"
-#    list:
-#      - title: "envato"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/envato.jpg
-#      - title: "designmodo"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/designmodo.jpg
-#      - title: "themeforest"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/themeforest.jpg
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "tryhackme"
+        url: https://tryhackme.com/p/knifearc
+        logo: assets/img/clients/THMlogo.png
+      - title: "hackthebox"
+        url: https://app.hackthebox.eu/profile/303633
+        logo: assets/img/clients/htb.jpeg
+      - title: "vulnhub"
+        url: https://vulnhub.com
+        logo: assets/img/clients/vulnhub.png
 #      - title: "Creative Market"
 #        url: https://github.com/raviriley/agency-jekyll-theme
 #        logo: assets/img/clients/creative-market.jpg
