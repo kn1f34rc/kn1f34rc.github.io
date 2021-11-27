@@ -57,9 +57,9 @@ en: &DEFAULT_EN
       - title: "vulnhub"
         url: https://vulnhub.com
         logo: assets/img/clients/vhl.png
-#      - title: "Creative Market"
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/creative-market.jpg
+      - title: "Websecurity Academy"
+#        url: https://portswigger.net/web-security
+#        logo: assets/img/clients/bsacad.png
 
 #  team:
 #    title: ""
